@@ -1,0 +1,1 @@
+set classpath=%classpath%;C:\jars\junit-4.13.2.jar;.;.\target;c:\jars\hamcrest-junit-2.0.0.0.jar;c:\jars\hamcrest-all-1.3.jar

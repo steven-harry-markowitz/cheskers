@@ -1,6 +1,5 @@
-enum PieceColor {
-
+public enum PieceColor {
+	UNKNOWN,
 	RED,
 	BLACK
-
 }
