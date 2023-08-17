@@ -1,0 +1,16 @@
+Brainstorm some todo items.
+
+Create Board class.
+	For starters let it be strictly 8 x 8 but consider flexible board size.
+	
+	Methods:
+		clear() - remove all pieces from the board
+		reset() - reset pieces to some initial state (how to designate initial state?)
+		print() - print representation of current board with pieces
+
+Create GameState class.
+	Methods:
+		whoseTurn() - who's turn is it
+		getBoard() - get board object with pieces
+		print() - print board (from Board object) and gameState info (whose turn and other?)
+	
