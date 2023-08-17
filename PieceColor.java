@@ -1,0 +1,6 @@
+enum PieceColor {
+
+	RED,
+	BLACK
+
+}

@@ -1,0 +1,1 @@
+This, cheskers repository, will be a mixture of Java and Scala and possibly other languages for purpose of learning programming and for becoming more comfortable with git and github.
