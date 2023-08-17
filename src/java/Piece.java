@@ -1,5 +1,7 @@
 public enum Piece {
 
+	UNKNOWN(-1), // pre-initialization state or FAILURE state
+	NOPIECE(0), // no piece at location 
 	PAWN(1),
 	BISHOP(3),
 	KNIGHT(3),
