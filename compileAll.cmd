@@ -1,1 +1,1 @@
-javac *.java
+javac src\java\*.java -d target
